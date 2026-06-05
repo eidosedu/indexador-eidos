@@ -1,0 +1,16 @@
+[
+  {
+    "id": "algorizze",
+    "nome": "Algorizze",
+    "descricao": "Game dinâmico para treino de fluência em operações matemáticas básicas.",
+    "tags": ["Matemática", "Operações Básicas", "Cálculo Mental"],
+    "url": "https://eidosedu.github.io/Pitagrama/index.html"
+  },
+  {
+    "id": "dourado",
+    "nome": "Material Dourado",
+    "descricao": "Simulador interativo de base 10 para compreensão de unidades, dezenas e centenas.",
+    "tags": ["Matemática", "Sistemas de Numeração"],
+    "url": "https://eidosedu.github.io/Dourado/index.html"
+  }
+]
