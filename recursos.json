@@ -1,6 +1,6 @@
 [
   {
-    "id": "algorizze",
+    "id": "algorize",
     "nome": "Algorizze",
     "descricao": "Game dinâmico para treino de fluência em operações matemáticas básicas.",
     "tags": ["Matemática", "Operações Básicas", "Cálculo Mental"],
@@ -12,5 +12,12 @@
     "descricao": "Simulador interativo de base 10 para compreensão de unidades, dezenas e centenas.",
     "tags": ["Matemática", "Sistemas de Numeração"],
     "url": "https://eidosedu.github.io/Dourado/index.html"
-  }
+  },
+ {
+    "id": "countclick",
+    "nome": "Contador de Cliques",
+    "descricao": "Clique para o valor subir. Perfeito para ilustrar contagem progressiva, regressiva, antecessor e sucessor além de lógica decimal.",
+    "tags": ["Matemática", "Sistemas de Numeração", "contagem"],
+    "url": "https://eidosedu.github.io/cont/index.html"
+ }
 ]
