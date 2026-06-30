@@ -19,5 +19,26 @@
     "descricao": "Clique para o valor subir. Perfeito para ilustrar contagem progressiva, regressiva, antecessor e sucessor além de lógica decimal.",
     "tags": ["Matemática", "Sistemas de Numeração", "contagem"],
     "url": "https://eidosedu.github.io/cont/index.html"
- }
+ },
+  {
+    "id": "abece_hub",
+    "nome": "Abecê HUB",
+    "descricao": "Aplicativo completo de alfabetização para lousas digitais. Conta com alfabeto sonoro interativo e um alfabeto móvel gamificado com diversos recursos lúdicos para letramento.",
+    "url": "https://eidosedu.github.io/abc/index.html",
+    "tags": ["Português", "Alfabetização", "Letramento", "Lúdico"]
+  },
+  {
+    "id": "copinha_matematica",
+    "nome": "Copinha Matemática",
+    "descricao": "Um jogo completo e divertido de futebol onde o progresso em campo depende de responder a questões matemáticas personalizáveis. Ideal para revisão e gamificação.",
+    "url": "https://eidosedu.github.io/futebol/index.html",
+    "tags": ["Matemática", "Operações", "Gamificação", "Revisão"]
+  },
+  {
+    "id": "geo_tracing",
+    "nome": "GeoTracing",
+    "descricao": "Exploração interativa do mapa do Brasil. Recursos gamificados projetados para o ensino dinâmico das regiões do país, seus estados e suas respectivas capitais.",
+    "url": "https://eidosedu.github.io/GeoTracing/index.html",
+    "tags": ["Geografia", "Regiões", "Estados", "Capitais"]
+  }
 ]
