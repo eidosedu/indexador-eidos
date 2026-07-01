@@ -40,5 +40,19 @@
     "descricao": "Exploração interativa do mapa do Brasil. Recursos gamificados projetados para o ensino dinâmico das regiões do país, seus estados e suas respectivas capitais.",
     "url": "https://eidosedu.github.io/GeoTracing/index.html",
     "tags": ["Geografia", "Regiões", "Estados", "Capitais"]
+  },
+    {
+    "id": "bingo_matematico",
+    "nome": "Bingo Matemático",
+    "descricao": "Aplicativo de bingo pedagógico que engaja a turma na leitura e escrita de tabelas. Exige que os alunos produzam ativamente suas próprias cartelas para participar do jogo.",
+    "url": "https://eidosedu.github.io/bingo/index.html",
+    "tags": ["Matemática", "Tabelas", "Gráficos", "Gamificação"]
+  },
+  {
+    "id": "piramide_textual",
+    "nome": "Pirâmide Textual",
+    "descricao": "Ferramenta de alfabetização focada em fluência de leitura. Gera textos acumulativos estruturados em formato de pirâmide a partir de frases personalizadas.",
+    "url": "https://eidosedu.github.io/piramide/index.html",
+    "tags": ["Português", "Alfabetização", "Leitura", "Fluência"]
   }
 ]
