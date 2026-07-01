@@ -54,5 +54,20 @@
     "descricao": "Ferramenta de alfabetização focada em fluência de leitura. Gera textos acumulativos estruturados em formato de pirâmide a partir de frases personalizadas.",
     "url": "https://eidosedu.github.io/piramide/index.html",
     "tags": ["Português", "Alfabetização", "Leitura", "Fluência"]
+  },
+    {
+    "id": "ancora",
+    "nome": "Âncora",
+    "descricao": "Aplicativo de alfabetização focado no desenvolvimento da fluência de leitura. Oferece o ensino estruturado através da leitura de famílias silábicas e atividades interativas com palavras simples.",
+    "url": "https://eidosedu.github.io/ancora/index.html",
+    "tags": ["Português", "Alfabetização", "Sílabas", "Leitura"]
+  },
+
+  {
+    "id": "alfa_mts",
+    "nome": "AlfaMTS",
+    "descricao": "App de alfabetização estruturado baseado em Match-to-Sample. Oferece alto nível de personalização pedagógica, sendo totalmente adequado às necessidades de aprendizagem de alunos com transtorno do espectro autista.",
+    "url": "https://eidosedu.github.io/AlfaMTS/index.html",
+    "tags": ["Português", "Alfabetização", "Autismo", "MTS", "Inclusão"]
   }
 ]
