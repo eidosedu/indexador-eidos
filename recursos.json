@@ -55,7 +55,7 @@
     "url": "https://eidosedu.github.io/piramide/index.html",
     "tags": ["Português", "Alfabetização", "Leitura", "Fluência"]
   },
-    {
+  {
     "id": "ancora",
     "nome": "Âncora",
     "descricao": "Aplicativo de alfabetização focado no desenvolvimento da fluência de leitura. Oferece o ensino estruturado através da leitura de famílias silábicas e atividades interativas com palavras simples.",
@@ -69,11 +69,18 @@
     "url": "https://eidosedu.github.io/AlfaMTS/index.html",
     "tags": ["Português", "Alfabetização", "Autismo", "MTS", "Inclusão"]
   },
+ {
+    "id": "fatiador",
+    "nome": "Fatiador",
+    "descricao": "Aplicativo interativo dedicado ao ensino de separação de sílabas. Apresenta módulos predefinidos com regras silábicas e famílias, além de permitir total personalização de palavras pelo professor.",
+    "url": "https://eidosedu.github.io/fatiador/",
+    "tags": ["Português", "Alfabetização", "Sílabas", "Separação"]
+  },
   {
-    "id": "silabario",
+    "id": "silabario_pro",
     "nome": "Silabário",
-    "descricao": "Aplicativo didático para o ensino de famílias silábicas, abrangendo desde as formas mais simples até as estruturas pouco convencionais. Inclui um jogo personalizável de fixação para revisão dos conjuntos estudados.",
-    "url": "https://eidosedu.github.io/silabario/",
-    "tags": ["Português", "Alfabetização", "Sílabas", "Gamificação", "Fixação"]
+    "descricao": "Treinamento avançado de consciência fonológica através de famílias silábicas em diversas formas e apresentações gamificadas, projetado para instruir regras de leitura de maneira dinâmica.",
+    "url": "https://eidosedu.github.io/silabas/",
+    "tags": ["Português", "Alfabetização", "Consciência Fonológica", "Gamificação"]
   }
 ]
