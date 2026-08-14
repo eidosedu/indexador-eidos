@@ -82,5 +82,19 @@
     "descricao": "Treinamento avançado de consciência fonológica através de famílias silábicas em diversas formas e apresentações gamificadas, projetado para instruir regras de leitura de maneira dinâmica.",
     "url": "https://eidosedu.github.io/silabas/",
     "tags": ["Português", "Alfabetização", "Consciência Fonológica", "Gamificação"]
-  }
+  },
+  {
+    "id": "math_market",
+    "nome": "MathMarket",
+    "descricao": "Aplicativo para mediação de dinâmicas em grupo de educação financeira e cálculo mental. Apresenta listas de compras dinâmicas onde os alunos são desafiados a calcular valores totais e trocos.",
+    "url": "https://eidosedu.github.io/market/",
+    "tags": ["Matemática", "Cálculo Mental", "Educação Financeira", "Dinâmica"]
+  },
+  {
+    "id": "rotinometro",
+    "nome": "Rotinômetro",
+    "descricao": "Ferramenta de organização pedagógica e rotina visual cronometrada. Auxilia na transição e gerenciamento do tempo de atividades em sala de aula de forma visual e estruturada.",
+    "url": "https://eidosedu.github.io/rotina/",
+    "tags": ["Outros", "Rotina", "Gestão de Tempo", "Organização", "Inclusão"]
+  } 
 ]
