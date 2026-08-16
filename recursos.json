@@ -103,5 +103,12 @@
     "descricao": "Cronômetro e temporizador tático para dinâmicas de sala de aula.",
     "url": "https://eidosedu.github.io/timer/",
     "tags": ["Outros", "Gestão de Tempo", "Organização", "Dinâmica"]
+  },
+  {
+    "id": "gbg_placar",
+    "nome": "GBG Hub",
+    "descricao": "Jogo do Bom Comportamento para gestão de contingências em sala de aula.",
+    "url": "https://eidosedu.github.io/gbg/",
+    "tags": ["Outros", "Gestão de Sala", "Comportamento", "Inclusão", "Dinâmica"]
   }
 ]
