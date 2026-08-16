@@ -96,5 +96,12 @@
     "descricao": "Ferramenta de organização pedagógica e rotina visual cronometrada. Auxilia na transição e gerenciamento do tempo de atividades em sala de aula de forma visual e estruturada.",
     "url": "https://eidosedu.github.io/rotina/",
     "tags": ["Outros", "Rotina", "Gestão de Tempo", "Organização", "Inclusão"]
-  } 
+  },
+  {
+    "id": "timer_pedagogico",
+    "nome": "Timer Pedagógico",
+    "descricao": "Cronômetro e temporizador tático para dinâmicas de sala de aula.",
+    "url": "https://eidosedu.github.io/timer/",
+    "tags": ["Outros", "Gestão de Tempo", "Organização", "Dinâmica"]
+  }
 ]
