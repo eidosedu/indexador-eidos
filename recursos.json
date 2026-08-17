@@ -110,5 +110,12 @@
     "descricao": "Jogo do Bom Comportamento para gestão de contingências em sala de aula.",
     "url": "https://eidosedu.github.io/gbg/",
     "tags": ["Outros", "Gestão de Sala", "Comportamento", "Inclusão", "Dinâmica"]
+  },
+  {
+    "id": "math_tower5",
+    "nome": "MathTower 5",
+    "descricao": "Aplicativo educativo estilo RPG focado na BNCC de Matemática do 5º Ano.",
+    "url": "https://eidosedu.github.io/tower5/",
+    "tags": ["Matemática", "5º Ano", "BNCC", "RPG", "Gamificação"]
   }
 ]
