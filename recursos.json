@@ -117,5 +117,12 @@
     "descricao": "Aplicativo educativo estilo RPG focado na BNCC de Matemática do 5º Ano.",
     "url": "https://eidosedu.github.io/tower5/",
     "tags": ["Matemática", "5º Ano", "BNCC", "RPG", "Gamificação"]
+  },
+  {
+    "id": "lab_song",
+    "nome": "LabSong",
+    "descricao": "Aplicativo de ciências com simulação interativa de experimentos de ondulatória e estudo das propriedades físicas do som.",
+    "url": "https://eidosedu.github.io/labsong/",
+    "tags": ["Ciências", "Física", "Ondulatória", "Som", "Simulador"]
   }
 ]
