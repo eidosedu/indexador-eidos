@@ -124,5 +124,12 @@
     "descricao": "Aplicativo de ciências com simulação interativa de experimentos de ondulatória e estudo das propriedades físicas do som.",
     "url": "https://eidosedu.github.io/labsong/",
     "tags": ["Ciências", "Física", "Ondulatória", "Som", "Simulador"]
+  },
+  {
+    "id": "identificador_palavras",
+    "nome": "Identificador de Palavras",
+    "descricao": "Atividade interativa para desenvolvimento da consciência lexical e discriminação de palavras. O aluno segmenta e isola vocábulos em frases completas com feedback visual imediato e gestor integrado de frases.",
+    "url": "https://eidosedu.github.io/palavras/",
+    "tags": ["Língua Portuguesa", "Alfabetização", "Consciência Lexical", "Leitura", "DTT"]
   }
 ]
