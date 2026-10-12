@@ -130,6 +130,13 @@
     "nome": "Identificador de Palavras",
     "descricao": "Atividade interativa para desenvolvimento da consciência lexical e discriminação de palavras. O aluno segmenta e isola vocábulos em frases completas com feedback visual imediato e gestor integrado de frases.",
     "url": "https://eidosedu.github.io/palavras/",
-    "tags": ["Língua Portuguesa", "Alfabetização", "Consciência Lexical", "Leitura", "DTT"]
+    "tags": ["Português", "Alfabetização", "Consciência Lexical", "Leitura", "DTT"]
+  },
+  {
+    "id": "caca_palavras",
+    "nome": "Caça-Palavras",
+    "descricao": "Atividade interativa de caça-palavras com seleção tátil de letras em grid, validação visual e gestor para criação personalizada de módulos infinitos.",
+    "url": "https://eidosedu.github.io/encontre/",
+    "tags": ["Português", "Alfabetização", "Ortografia", "Vocabulário", "Gamificação"]
   }
 ]
